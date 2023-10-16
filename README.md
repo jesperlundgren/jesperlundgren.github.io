@@ -1,2 +1,2 @@
-# jesperlundgren.github.io
-Repository for my personal GitHub Pages
+# Jesper Lundgren
+My personal GitHub Pages
